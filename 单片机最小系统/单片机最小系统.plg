@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\51单片机学习资料（未汇总）\我自己编写的51单片机程序\单片机最小系统\单片机最小系统.uvproj
+Project File Date:  12/07/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+Target has no object modules
+Target not created
+Build target 'Target 1'
+compiling 单片机最小系统.c...
+单片机最小系统.C(14): error C141: syntax error near '`'
+Target not created
+Build target 'Target 1'
+compiling 单片机最小系统.c...
+linking...
+Program Size: data=9.0 xdata=0 code=25
+"单片机最小系统" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=25
+creating hex file from "单片机最小系统"...
+"单片机最小系统" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 单片机最小系统.c...
+linking...
+Program Size: data=9.0 xdata=0 code=25
+creating hex file from "单片机最小系统"...
+"单片机最小系统" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 单片机最小系统.c...
+linking...
+Program Size: data=9.0 xdata=0 code=25
+creating hex file from "单片机最小系统"...
+"单片机最小系统" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=25
+creating hex file from "单片机最小系统"...
+"单片机最小系统" - 0 Error(s), 0 Warning(s).
