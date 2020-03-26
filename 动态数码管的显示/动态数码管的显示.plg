@@ -1,0 +1,49 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\51µ¥Æ¬»úÑ§Ï°×ÊÁÏ£¨Î´»ã×Ü£©\ÎÒ×Ô¼º±àĞ´µÄ51µ¥Æ¬»ú³ÌĞò\¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾\¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.uvproj
+Project File Date:  12/05/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+Target has no object modules
+Target not created
+Build target 'Target 1'
+compiling ¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.c...
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(22): error C141: syntax error near ''
+Target not created
+Build target 'Target 1'
+compiling ¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.c...
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(16): warning C206: 'delay': missing function-prototype
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(16): error C267: 'delay': requires ANSI-style prototype
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(21): error C141: syntax error near ''
+Target not created
+Build target 'Target 1'
+compiling ¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.c...
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(16): warning C206: 'delay': missing function-prototype
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(16): error C267: 'delay': requires ANSI-style prototype
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(21): error C141: syntax error near ''
+Target not created
+Build target 'Target 1'
+compiling ¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.c...
+¶¯Ì¬ÊÂë¹ÜµÄÏÔÊ¾.C(21): error C141: syntax error near ''
+Target not created
+Build target 'Target 1'
+compiling ¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.c...
+linking...
+Program Size: data=17.0 xdata=0 code=120
+"¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling ¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.c...
+linking...
+Program Size: data=17.0 xdata=0 code=120
+creating hex file from "¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾"...
+"¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling ¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾.c...
+linking...
+Program Size: data=17.0 xdata=0 code=120
+creating hex file from "¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾"...
+"¶¯Ì¬ÊıÂë¹ÜµÄÏÔÊ¾" - 0 Error(s), 0 Warning(s).
